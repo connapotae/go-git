@@ -23,7 +23,6 @@ func divide(a, b float64) float64 {
 func main() {
 	fmt.Println("Hello Go")
 	fmt.Println("Auto Push Code")
-	fmt.Println("Auto Push Code")
 	fmt.Println(sum(10, 58))
 	fmt.Println(sub(10, 20))
 	fmt.Println(mul(10, 3))
